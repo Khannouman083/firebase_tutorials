@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "423723179960",
+    "project_id": "fir-tutorials-b7416",
+    "storage_bucket": "fir-tutorials-b7416.appspot.com",
+    "database_url": "https://fir-tutorials-b7416-default-rtdb.firebaseio.com/"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423723179960:android:1a6b0ad66935415fef394d",
+        "android_client_info": {
+          "package_name": "com.nouman.firebaseTutorials"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdQGOIrcZXgg2HZ-LX1jUXbBVn3FYXHtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
